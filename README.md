@@ -190,12 +190,12 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00E5A0&text_color=C9D1D9&count_private=true&cache_seconds=1800&theme=dark" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&theme=dark" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00E5A0&text_color=C9D1D9&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&cache_seconds=1800&theme=dark&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&cache_seconds=1800&langs_count=8" width="49%" />
 
 </div>
 
@@ -205,7 +205,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=princegupt1234&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=princegupt1234&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4" />
 
 </div>
 
