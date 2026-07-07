@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://princesportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://princegportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FFB3?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
@@ -52,7 +52,7 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 - B.Tech CSE — BIET Lucknow (AKTU)
 - Ex-Intern @ Codveda Technologies
 - Lucknow, India
-- [Portfolio](https://princesportfolio.netlify.app)
+- [Portfolio](https://princegportfolio.netlify.app)
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 | **Scale** | Fully responsive single-page application |
 | **Performance** | Optimized asset loading and smooth navigation |
 | **Security** | Static deployment with no exposed backend surface |
-| **Live** | [princesportfolio.netlify.app](https://princesportfolio.netlify.app) |
+| **Live** | [princegportfolio.netlify.app](https://princegportfolio.netlify.app) |
 
 </details>
 
@@ -191,7 +191,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 <div align="center">
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00E5A0&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&stroke=0D1117" width="49%" />
 
 <br/>
 
@@ -296,7 +296,7 @@ open_to:
 [![Phone](https://img.shields.io/badge/Call-%2B91%207275807576-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117)](tel:+917275807576)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FFB3?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://princesportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://princegportfolio.netlify.app)
 
 </div>
 
