@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:8B5CF6&height=260&section=header&text=Prince%20Gupt&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=55&descSize=18&descColor=E9D5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:1a0533,60:2d1b69,100:4c1d95&height=280&section=header&text=Prince%20Gupt&fontSize=72&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=56&descSize=19&descColor=DDD6FE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Java+%2B+DSA+Problem+Solver;Seeking+Entry-Level+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%F0%9F%94%A5;Java+%2B+DSA+Problem+Solver+%F0%9F%A7%A0;Seeking+Entry-Level+SDE+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Student](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![University](https://img.shields.io/badge/AKTU-BIET%20Lucknow-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white)
+![Student](https://img.shields.io/badge/B.Tech-Computer%20Science-A78BFA?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1e1b4b)
+![University](https://img.shields.io/badge/AKTU-BIET%20Lucknow-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1e1b4b)
+![Location](https://img.shields.io/badge/Lucknow%2C%20India-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1e1b4b)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://princesportfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-gupt-175289322/)
-[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princegupt3052@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princegupt1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/princegupt/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-A78BFA?style=for-the-badge&labelColor=1e1b4b)](https://princesportfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-8B5CF6?style=for-the-badge&labelColor=1e1b4b)](https://www.linkedin.com/in/prince-gupt-175289322/)
+[![Email](https://img.shields.io/badge/📧%20Email-Contact-7C3AED?style=for-the-badge&labelColor=1e1b4b)](mailto:princegupt3052@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Follow-6D28D9?style=for-the-badge&labelColor=1e1b4b)](https://github.com/princegupt1234)
+[![LeetCode](https://img.shields.io/badge/⚡%20LeetCode-Solve-A78BFA?style=for-the-badge&labelColor=1e1b4b)](https://leetcode.com/u/princegupt/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=princegupt1234&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/princegupt1234?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=Followers)
-![Stars](https://img.shields.io/github/stars/princegupt1234?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=princegupt1234&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=1e1b4b)
+![Followers](https://img.shields.io/github/followers/princegupt1234?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b&label=Followers)
+![Stars](https://img.shields.io/github/stars/princegupt1234?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=Stars)
 
 </div>
 
@@ -34,39 +34,62 @@
 
 Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stack development experience. Completed an internship at **Codveda Technologies**, building production web applications with React, Node.js, MongoDB, and MySQL. Focused on writing clean, scalable code and continuously sharpening Data Structures & Algorithms fundamentals. Currently seeking entry-level SDE roles or final-year internships.
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td>
+<td align="center" width="50%">
 
 **🎯 Open To**
-- Software Development Engineer (SDE) Internships
+- SDE Internships
 - Entry-Level Full Stack Developer Roles
-- Backend Developer Opportunities (Node.js / Java)
+- Backend Developer Roles (Node.js / Java)
 - Open Source Collaboration
+
+</td>
+<td align="center" width="50%">
+
+**📍 Quick Info**
+- 🎓 B.Tech CSE — BIET Lucknow (AKTU)
+- 💼 Ex-Intern @ Codveda Technologies
+- 📍 Lucknow, India
+- 🌐 [Portfolio](https://princesportfolio.netlify.app)
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ## 🟣 Tech Stack
 
-**Languages**
+<div align="center">
 
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
 
-**Frontend**
+<br/><br/>
 
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
 
-**Backend & Databases**
+<br/><br/>
 
+**Backend & Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&theme=dark" />
 
-**Tools**
+<br/><br/>
 
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
 
 | Category | Stack |
 |:--|:--|
@@ -95,8 +118,6 @@ Full-stack Point of Sale application with invoice generation, cart management, a
 | **Impact** | Automates invoice generation and billing calculations end-to-end |
 | **Repository** | [github.com/princegupt1234](https://github.com/princegupt1234) |
 
-Built with a REST API backend on Node.js/Express.js, using MongoDB to store the product catalog and transaction records.
-
 </details>
 
 <details>
@@ -114,8 +135,6 @@ Full-stack travel platform with destination browsing, booking forms, and MySQL-b
 | **Impact** | Complete booking flow from destination browsing to confirmation |
 | **Repository** | [github.com/princegupt1234](https://github.com/princegupt1234) |
 
-Focused on core PHP-MySQL fundamentals — dynamic rendering, booking form handling, and relational user data management.
-
 </details>
 
 <details>
@@ -130,7 +149,6 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 | **Scale** | Fully responsive single-page application |
 | **Performance** | Optimized asset loading and smooth navigation |
 | **Security** | Static deployment with no exposed backend surface |
-| **Impact** | Live recruiter-facing presence for SDE applications |
 | **Live** | [princesportfolio.netlify.app](https://princesportfolio.netlify.app) |
 
 </details>
@@ -139,14 +157,20 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 ## 🟣 Experience
 
-**Full Stack Developer Intern**
-**Codveda Technologies** · Remote
-`January 2026 — February 2026`
-*ISO 9001:2015 Certified · MSME Registered · Credential ID: CV/A1/55948*
+<div align="center">
+
+| | |
+|:--|:--|
+| **Role** | Full Stack Developer Intern |
+| **Company** | Codveda Technologies · Remote |
+| **Duration** | January 2026 — February 2026 |
+| **Credential** | CV/A1/55948 · ISO 9001:2015 · MSME Registered |
+
+</div>
 
 - Built full-stack web features using React.js, Node.js, Express.js, and MongoDB
-- Designed RESTful APIs and integrated them with frontend interfaces for seamless user experience
-- Managed MySQL and MongoDB databases for data modeling, queries, and storage
+- Designed RESTful APIs and integrated them with frontend interfaces
+- Managed MySQL and MongoDB databases for data modeling and storage
 
 `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`
 
@@ -154,11 +178,11 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 ## 🟣 Education
 
-| Degree / Certificate | Institution | Duration / Year |
+| Degree | Institution | Year |
 |:--|:--|:--|
-| **B.Tech, Computer Science & Engineering** | Bansal Institute of Engineering & Technology, Lucknow (AKTU) | Aug 2023 – Aug 2027 |
-| **Intermediate (12th), PCM — 63%** | Udit Narayan Intermediate College, Padrauna, Kushinagar (UP Board) | 2022 |
-| **High School (10th) — 79%** | Shree Chhatathu Prasad Uchchatar Madhyamik Vidyalaya, Kushinagar (UP Board) | 2020 |
+| **B.Tech — CSE** | BIET Lucknow, AKTU | 2023 – 2027 |
+| **Intermediate (12th) PCM — 63%** | Udit Narayan Intermediate College, Kushinagar | 2022 |
+| **High School (10th) — 79%** | Shree Chhatathu Prasad Vidyalaya, Kushinagar | 2020 |
 
 ---
 
@@ -166,20 +190,9 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-![Codveda](https://img.shields.io/badge/Full%20Stack%20Development%20Internship-Codveda%20Technologies-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1a1a2e)
+![Codveda](https://img.shields.io/badge/Full%20Stack%20Development%20Internship-Codveda%20Technologies-A78BFA?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1e1b4b)
 
 *Issued March 2026 · Credential ID: CV/A1/55948*
-
-</div>
-
----
-
-## 🟣 Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/English-Fluent-8B5CF6?style=flat-square&labelColor=1a1a2e)
-![Hindi](https://img.shields.io/badge/Hindi-Native-7C3AED?style=flat-square&labelColor=1a1a2e)
 
 </div>
 
@@ -189,12 +202,13 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&rank_icon=github&cache_seconds=86400" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=7C3AED&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&count_private=true&rank_icon=github&include_all_commits=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E9D5FF&dates=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&stroke=7C3AED" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=donut&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&langs_count=8" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupt1234&theme=2077&utcOffset=5.5" width="49%" />
 
 <br/><br/>
 
@@ -208,7 +222,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=princegupt1234&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=princegupt1234&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
@@ -218,7 +232,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princegupt1234&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true&area=true&area_color=6D28D9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princegupt1234&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true&area=true&area_color=4c1d95" width="100%" />
 
 </div>
 
@@ -242,8 +256,19 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/princegupt1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-princegupt-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/princegupt/)
+[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/princegupt1234)
+[![LeetCode](https://img.shields.io/badge/LeetCode-princegupt-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/u/princegupt/)
+
+</div>
+
+---
+
+## 🟣 Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent-A78BFA?style=flat-square&labelColor=1e1b4b)
+![Hindi](https://img.shields.io/badge/Hindi-Native-8B5CF6?style=flat-square&labelColor=1e1b4b)
 
 </div>
 
@@ -277,11 +302,11 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-princegupt3052%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:princegupt3052@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B91%207275807576-7C3AED?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](tel:+917275807576)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--gupt-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/prince-gupt-175289322/)
-[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/princegupt1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://princesportfolio.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-princegupt3052%40gmail.com-A78BFA?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:princegupt3052@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%207275807576-8B5CF6?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1e1b4b)](tel:+917275807576)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--gupt-7C3AED?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/prince-gupt-175289322/)
+[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/princegupt1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://princesportfolio.netlify.app)
 
 </div>
 
@@ -291,6 +316,6 @@ open_to:
 
 *"Code is the closest thing we have to magic — write it with intention."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:7C3AED,100:6D28D9&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:0D0221&height=160&section=footer" width="100%"/>
 
 </div>
