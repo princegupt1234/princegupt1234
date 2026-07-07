@@ -198,12 +198,12 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=22D3EE&text_color=F8FAFC&count_private=true&rank_icon=github&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=22D3EE&text_color=F8FAFC&count_private=true&rank_icon=github&include_all_commits=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0F172A&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4&sideLabels=F8FAFC&dates=BAE6FD&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=3B82F6" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=donut&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=F8FAFC&langs_count=8" width="38%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=princegupt1234&layout=donut&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=F8FAFC&langs_count=8" width="38%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupt1234&theme=nord_dark&utcOffset=5.5" width="49%" />
 
 <br/><br/>
