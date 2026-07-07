@@ -189,12 +189,16 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&rank_icon=github&number_format=long" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=7C3AED" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&rank_icon=github&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=7C3AED&cache_seconds=86400" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8&cache_seconds=86400" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupt1234&theme=2077" width="100%" />
 
 </div>
 
@@ -224,7 +228,6 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
-<!-- Snake is auto-generated via GitHub Actions. Setup instructions below. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princegupt1234/princegupt1234/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/princegupt1234/princegupt1234/output/github-contribution-grid-snake.svg" />
@@ -232,40 +235,6 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 </picture>
 
 </div>
-
-<!--
-  SNAKE SETUP (one-time) — create this file in princegupt1234/princegupt1234 repo:
-  Path: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [main]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: princegupt1234
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Then go to Actions tab → "Generate Snake" → Run workflow
--->
 
 ---
 
