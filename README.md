@@ -63,8 +63,6 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 
 ## 🔵 Tech Stack
 
-<div align="center">
-
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
@@ -86,8 +84,6 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
 
 <br/>
 
