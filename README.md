@@ -191,7 +191,7 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 <div align="center">
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00E5A0&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&stroke=0D1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=princegupt1234&hide_border=true&background=0D1117&ring=00FFB3&fire=00E5A0&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&stroke=0D1117&border_radius=5" width="49%" />
 
 <br/>
 
