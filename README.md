@@ -196,7 +196,7 @@ Created a visitor management application with Spring Boot, Thymeleaf, and MySQL 
 
 ---
 
-## 🟣 GitHub Trophies
+<!-- ## 🟣 GitHub Trophies
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Created a visitor management application with Spring Boot, Thymeleaf, and MySQL 
 
 </div>
 
----
+--- -->
 
 ## 🟣 Contribution Activity
 
