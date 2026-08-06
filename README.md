@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:0D1117&height=280&section=header&text=Prince%20Gupt&fontSize=72&fontColor=00FFB3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=56&descSize=19&descColor=7FFFD4" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Java+%2B+DSA+Problem+Solver;Seeking+Entry-Level+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+Thymeleaf;MySQL+%2B+MVC+%2B+Web+Apps;Seeking+Entry-Level+SDE+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://princegportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://portfolio-gx88.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FFB3?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
@@ -32,7 +32,7 @@
 
 ## 🟣 About Me
 
-Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stack development experience. Completed an internship at **Codveda Technologies**, building production web applications with React, Node.js, MongoDB, and MySQL. Focused on writing clean, scalable code and continuously sharpening Data Structures & Algorithms fundamentals. Currently seeking entry-level SDE roles or final-year internships.
+Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** and Full Stack Developer with hands-on experience building Java Spring Boot web applications. Completed a Full Stack development internship at **Codveda Technologies**, working with Spring Boot, Thymeleaf, MySQL, HTML, CSS, and JavaScript. Focused on clean architecture, MVC-based web applications, and delivering production-ready solutions. Currently open to entry-level SDE roles and final-year internships.
 
 <div align="center">
 <table>
@@ -42,7 +42,7 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 **🎯 Open To**
 - SDE Internships
 - Entry-Level Full Stack Developer Roles
-- Backend Developer Roles (Node.js / Java)
+- Java / Spring Boot Developer Roles
 - Open Source Collaboration
 
 </td>
@@ -52,7 +52,7 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 - B.Tech CSE — BIET Lucknow (AKTU)
 - Ex-Intern @ Codveda Technologies
 - Lucknow, India
-- [Portfolio](https://princegportfolio.netlify.app)
+- [Portfolio](https://portfolio-gx88.onrender.com)
 
 </td>
 </tr>
@@ -65,79 +65,75 @@ Final-year B.Tech CSE student at **BIET Lucknow (AKTU)** with hands-on full stac
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=springboot,mysql&theme=dark" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render&theme=dark" />
 
 | Category | Stack |
 |:--|:--|
-| **Frontend** | HTML, CSS, JavaScript, React.js, Next.js, TypeScript |
-| **Backend** | Node.js, Express.js, PHP |
-| **Database** | MongoDB, MySQL |
-| **Languages** | JavaScript, Java, Python |
-| **Tools** | Git, GitHub, VS Code |
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap, Thymeleaf |
+| **Backend** | Java, Spring Boot, MVC |
+| **Database** | MySQL |
+| **Languages** | Java, JavaScript |
+| **Tools** | Git, GitHub, VS Code, Render |
 
 ---
 
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🔹 POS Billing System</b></summary>
+<summary><b>🔹 E-Commerce Website</b></summary>
 <br/>
 
-Full-stack Point of Sale application with invoice generation, cart management, and automatic billing calculations.
+Developed a responsive e-commerce platform using Java, Spring Boot, Thymeleaf, and MySQL with complete product and order management.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | Node.js, Express.js, MongoDB, HTML, CSS, JavaScript |
-| **Scale** | Multi-product catalog with transactional billing flow |
-| **Performance** | REST API backend optimized for cart and invoice operations |
-| **Security** | Server-side validation on transaction data |
-| **Impact** | Automates invoice generation and billing calculations end-to-end |
-| **Repository** | [github.com/princegupt1234](https://github.com/princegupt1234) |
+| **Stack** | Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, Bootstrap, JavaScript |
+| **Features** | Product catalog, shopping cart, checkout workflow, admin controls |
+| **Architecture** | MVC-based design with server-side rendering and database-backed sessions |
+| **Impact** | Delivered a production-ready shopping experience with full CRUD support |
+| **Deployment** | Prepared for production deployment with secure configuration |
 
 </details>
 
 <details>
-<summary><b>🔹 Travel Booking Website</b></summary>
+<summary><b>🔹 Personal Portfolio Website</b></summary>
 <br/>
 
-Full-stack travel platform with destination browsing, booking forms, and MySQL-backed user management.
+Built a portfolio site using Java, Spring Boot, Thymeleaf, HTML, CSS, Bootstrap, and MySQL, with a polished responsive UI.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | HTML, CSS, JavaScript, PHP, MySQL |
-| **Scale** | Relational schema supporting destinations, bookings, and users |
-| **Performance** | Optimized SQL queries for destination search and booking |
-| **Security** | Server-side form validation, sanitized queries |
-| **Impact** | Complete booking flow from destination browsing to confirmation |
-| **Repository** | [github.com/princegupt1234](https://github.com/princegupt1234) |
+| **Stack** | Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, Bootstrap, JavaScript |
+| **Features** | Responsive design, project showcase, contact workflow, dynamic page rendering |
+| **Performance** | Fast server-side rendering and optimized user experience |
+| **Live** | [portfolio-gx88.onrender.com](https://portfolio-gx88.onrender.com) |
 
 </details>
 
 <details>
-<summary><b>🔹 Personal Portfolio</b></summary>
+<summary><b>🔹 Visitor Hub Management System</b></summary>
 <br/>
 
-Responsive personal portfolio built with Next.js and TypeScript, deployed publicly on Netlify.
+Created a visitor management application with Spring Boot, Thymeleaf, and MySQL to track visitors and support complete CRUD operations.
 
 | Attribute | Details |
 |:--|:--|
-| **Stack** | Next.js, React, TypeScript |
-| **Scale** | Fully responsive single-page application |
-| **Performance** | Optimized asset loading and smooth navigation |
-| **Security** | Static deployment with no exposed backend surface |
-| **Live** | [princegportfolio.netlify.app](https://princegportfolio.netlify.app) |
+| **Stack** | Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript |
+| **Features** | Visitor registration, search, update, deletion, record management |
+| **Architecture** | MVC-based backend with server-rendered pages and database persistence |
+| **Impact** | Simplified visitor tracking and improved record accuracy for hub administration |
 
 </details>
 
@@ -152,15 +148,15 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 | **Role** | Full Stack Developer Intern |
 | **Company** | Codveda Technologies · Remote |
 | **Duration** | January 2026 — February 2026 |
-| **Credential** | CV/A1/55948 · ISO 9001:2015 · MSME Registered |
+| **Credential** | CV/A1/55948 |
 
 </div>
 
-- Built full-stack web features using React.js, Node.js, Express.js, and MongoDB
-- Designed RESTful APIs and integrated them with frontend interfaces
-- Managed MySQL and MongoDB databases for data modeling and storage
+- Developed and deployed full-stack web applications using Java Spring Boot and Thymeleaf
+- Built RESTful APIs and integrated them with server-rendered frontend pages
+- Worked with MySQL for data modeling, query design, and application persistence
 
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`
+`Java` `Spring Boot` `Thymeleaf` `MySQL` `HTML` `CSS`
 
 ---
 
@@ -168,9 +164,9 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 | Degree | Institution | Year |
 |:--|:--|:--|
-| **B.Tech — CSE** | BIET Lucknow, AKTU | 2023 – 2027 |
-| **Intermediate (12th) PCM — 63%** | Udit Narayan Intermediate College, Kushinagar | 2022 |
-| **High School (10th) — 79%** | Shree Chhatathu Prasad Vidyalaya, Kushinagar | 2020 |
+| **B.Tech — CSE** | Bansal Institute of Engineering & Technology, Lucknow — Affiliated to AKTU | 2023 – 2027 |
+| **Intermediate (Class XII) — 63.2%** | Udit Narayan Inter College, Padrauna, Kushinagar | 2020 – 2022 |
+| **High School (Class X) — 79.3%** | Shree Chhatathu Prasad Uchchatar Madhyamik Vidyalaya, Kushinagar | 2019 – 2020 |
 
 ---
 
@@ -178,9 +174,12 @@ Responsive personal portfolio built with Next.js and TypeScript, deployed public
 
 <div align="center">
 
+![Techpile](https://img.shields.io/badge/Java%20Spring%20Boot%20Summer%20Training-Techpile%20Technology%20Pvt.%20Ltd.-00FFB3?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
 ![Codveda](https://img.shields.io/badge/Full%20Stack%20Development%20Internship-Codveda%20Technologies-00FFB3?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
 
-*Issued March 2026 · Credential ID: CV/A1/55948*
+*Java Spring Boot Summer Training — Techpile Technology Pvt. Ltd., July 2026 · Credential ID: TechpileST260929*
+
+*Full Stack Development Internship Certificate — Codveda Technologies, March 2026 · Credential ID: CV/A1/55948*
 
 </div>
 
