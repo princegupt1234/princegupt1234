@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B949E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
 [![Email](https://img.shields.io/badge/Email-Contact-8B949E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-C9D1D9?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-8B949E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-8B949E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt1234/)
 
 <br/>
 
