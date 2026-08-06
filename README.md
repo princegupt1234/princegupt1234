@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:0D1117&height=280&section=header&text=Prince%20Gupt&fontSize=72&fontColor=00FFB3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=56&descSize=19&descColor=7FFFD4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:0D1117&height=280&section=header&text=Prince%20Gupt&fontSize=72&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=56&descSize=19&descColor=8B949E" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+Thymeleaf;MySQL+%2B+MVC+%2B+Web+Apps;Seeking+Entry-Level+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C9D1D9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+Thymeleaf;MySQL+%2B+MVC+%2B+Web+Apps;Seeking+Entry-Level+SDE+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,17 +14,17 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://portfolio-gx88.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00FFB3?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9D1D9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://portfolio-gx88.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B949E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
+[![Email](https://img.shields.io/badge/Email-Contact-8B949E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-C9D1D9?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-8B949E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=princegupt1234&style=for-the-badge&color=00FFB3&label=PROFILE+VIEWS&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/princegupt1234?style=for-the-badge&color=00E5A0&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/princegupt1234?style=for-the-badge&color=FFD700&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=princegupt1234&style=for-the-badge&color=C9D1D9&label=PROFILE+VIEWS&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/princegupt1234?style=for-the-badge&color=8B949E&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/princegupt1234?style=for-the-badge&color=8B949E&labelColor=0D1117)
 
 </div>
 
@@ -174,8 +174,8 @@ Created a visitor management application with Spring Boot, Thymeleaf, and MySQL 
 
 <div align="center">
 
-![Techpile](https://img.shields.io/badge/Java%20Spring%20Boot%20Summer%20Training-Techpile%20Technology%20Pvt.%20Ltd.-00FFB3?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
-![Codveda](https://img.shields.io/badge/Full%20Stack%20Development%20Internship-Codveda%20Technologies-00FFB3?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
+[![Techpile](https://img.shields.io/badge/Java%20Spring%20Boot%20Summer%20Training-Techpile%20Technology%20Pvt.%20Ltd.-C9D1D9?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
+![Codveda](https://img.shields.io/badge/Full%20Stack%20Development%20Internship-Codveda%20Technologies-C9D1D9?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117)
 
 *Java Spring Boot Summer Training — Techpile Technology Pvt. Ltd., July 2026 · Credential ID: TechpileST260929*
 
@@ -189,29 +189,18 @@ Created a visitor management application with Spring Boot, Thymeleaf, and MySQL 
 
 <div align="center">
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00E5A0&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=princegupt1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=princegupt1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=C9D1D9&langs_count=8" width="49%" />
 
 </div>
 
----
 
-<!-- ## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princegupt1234&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princegupt1234&theme=github_dark" width="49%" />
-
-</div>
-
---- -->
 
 ## 🟣 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princegupt1234&theme=react-dark&bg_color=0D1117&color=00FFB3&line=00E5A0&point=FFFFFF&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princegupt1234&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -241,8 +230,8 @@ palette on dark SVG, light-mode palette on light SVG). See workflow above.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-00FFB3?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-princegupt-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt/)
+[![GitHub](https://img.shields.io/badge/GitHub-princegupt1234-C9D1D9?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
+[![LeetCode](https://img.shields.io/badge/LeetCode-princegupt-8B949E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/princegupt1234/)
 
 </div>
 
@@ -252,8 +241,8 @@ palette on dark SVG, light-mode palette on light SVG). See workflow above.
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-Fluent-00FFB3?style=flat-square&labelColor=0D1117)
-![Hindi](https://img.shields.io/badge/Hindi-Native-00E5A0?style=flat-square&labelColor=0D1117)
+[![English](https://img.shields.io/badge/English-Fluent-C9D1D9?style=flat-square&labelColor=0D1117)
+![Hindi](https://img.shields.io/badge/Hindi-Native-8B949E?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -287,11 +276,11 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%2B91%207275807576-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117)](tel:+917275807576)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00FFB3?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://princegportfolio.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-8B949E?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:princegupt3052@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-%2B91%207275807576-8B949E?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117)](tel:+917275807576)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B949E?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/prince-gupt-175289322/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-C9D1D9?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/princegupt1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9D1D9?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://portfolio-gx88.onrender.com)
 
 </div>
 
