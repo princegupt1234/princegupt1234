@@ -253,7 +253,7 @@ palette on dark SVG, light-mode palette on light SVG). See workflow above.
 ```yaml
 learning:
   - Advanced Data Structures & Algorithms
-  - Java Full Stack Development (offline training, )
+  - Java Full Stack Development (offline training)
   - System Design Fundamentals
 
 building:
