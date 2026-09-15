@@ -1,12 +1,24 @@
 <div align="center">
 
-# Prince Gupt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:0D1117&height=180&section=header&text=Prince%20Gupt&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f2328?style=for-the-badge&logo=render&logoColor=white)](https://portfolio-gx88.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princegupt1234/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princegupt3052@gmail.com)
+<br/>
 
-<br/><br/>
+<p align="center">
+  <a href="https://portfolio-gx88.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/princegupt1234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:princegupt3052@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princegupt1234/princegupt1234/output/github-contribution-grid-snake-dark.svg" />
